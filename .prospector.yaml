@@ -1,0 +1,7 @@
+strictness: medium
+ignore-paths:
+    - esgdata/entity_queries.py
+doc-warnings: false
+test-warnings: false
+autodetect: true
+member-warnings: false

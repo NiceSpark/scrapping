@@ -1,0 +1,14 @@
+[MASTER]
+django-settings-module=apiday_backend.settings
+
+[FORMAT]
+max-line-length=150
+
+[MESSAGES CONTROL]
+disable=relative-beyond-top-level,missing-docstring,invalid-name,no-member,too-few-public-methods,fixme,import-outside-toplevel,no-self-use,abstract-method,attribute-defined-outside-init,locally-disabled,no-name-in-module,super-with-arguments
+
+[DESIGN]
+max-parents=13
+
+[TYPECHECK]
+generated-members=REQUEST,acl_users,aq_parent,"[a-zA-Z]+_set{1,2}",save,delete

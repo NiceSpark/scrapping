@@ -1,0 +1,5 @@
+{
+    "workdir": "/home/tom/Sparkmate/LeadGenerator/",
+    "linkedin_urls_path": "data/linkedin_urls.json",
+    "screenshot_dir": "screenshots/"
+}
